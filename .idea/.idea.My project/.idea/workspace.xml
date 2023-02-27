@@ -2,37 +2,70 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="43842ce3-c243-4462-add9-7801220e05f6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Cameras.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Cameras/AssignCameraToLocalPlayerOnServerAdd.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Cameras/AssignCameraToLocalPlayerOnServerAdd.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Infrastructure.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Infrastructure/GameInstaller.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Infrastructure/GameInstaller.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Infrastructure/SceneInstaller.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Infrastructure/SceneInstaller.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Networking/DefaultNetworkPlayerFactory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Networking/DefaultNetworkPlayerFactory.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Networking/MyNetworkIdentityHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Networking/MyNetworkIdentityHelper.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Networking/NetworkPlayerSpawnPoint.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Source/Networking/NetworkPlayerSpawnPoint.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.My project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.My project/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj.DotSettings" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj.DotSettings" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Networking.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Networking.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Networking/MoveWithKeyboard.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Networking/MoveWithKeyboard.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Networking/MoveWithKeyboard.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Networking/MoveWithKeyboard.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Networking/PlayerPrefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Networking/PlayerPrefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Source/Networking/PlayerPrefab.prefab.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Source/Networking/PlayerPrefab.prefab.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Source/Networking/DisableOnNonLocalPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Source/Networking/MyNetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LBl4wdMaCvhPBQxyk9IOEwEr5M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Discover.Launch.Via.Unity": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "XThreadsFramesViewSplitterKey": "0.49542683",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\Danik\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\Danik\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\Danik\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\Danik\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\Danik\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\Danik\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.17f1\Editor\Unity.exe" />
@@ -60,10 +93,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="17320">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="17320" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -85,6 +118,10 @@
       <workItem from="1675393258634" duration="2097000" />
       <workItem from="1675563981190" duration="760000" />
       <workItem from="1675653845078" duration="2515000" />
+      <workItem from="1675826538030" duration="7474000" />
+      <workItem from="1676009985239" duration="2197000" />
+      <workItem from="1676081479744" duration="1010000" />
+      <workItem from="1677464844459" duration="12226000" />
     </task>
     <servers />
   </component>
@@ -95,5 +132,37 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Plugins/Mirror/Core/NetworkClient.cs</url>
+          <line>1000</line>
+          <properties documentPath="C:\Users\Danik\My project\Assets\Plugins\Mirror\Core\NetworkClient.cs" initialLine="1000" containingFunctionPresentation="method 'ApplySpawnPayload'">
+            <startOffsets>
+              <option value="46684" />
+            </startOffsets>
+            <endOffsets>
+              <option value="46709" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Source/Networking/MyNetworkIdentityHelper.cs</url>
+          <line>8</line>
+          <properties documentPath="C:\Users\Danik\My project\Assets\Source\Networking\MyNetworkIdentityHelper.cs" initialLine="8" containingFunctionPresentation="method 'Awake'">
+            <startOffsets>
+              <option value="162" />
+            </startOffsets>
+            <endOffsets>
+              <option value="181" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
